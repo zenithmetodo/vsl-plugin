@@ -450,3 +450,14 @@ PRÓXIMO AGENTE A INVOCAR
 6. **No animes a copiar la VSL textualmente.** La masterclass es explícita: *"No toques copy ajeno sin permiso. Si entras a una operación con copy ya hecho, habla antes con el responsable. Modificar a la brava cuesta caro."* Para una VSL competidora externa, **modelar la función**, no plagiar.
 7. **Si encuentras una VSL con +5000 creativos activos, advierte saturación.** Sugiere mutar mecanismo (de Gran Secreto a Solución de Problemas, o de Promesa a Historia — modelo Schwartz de evolución de mercado).
 8. **Documenta siempre la fecha de la búsqueda.** Meta Ads Library cambia diariamente. Una validación de hace 30 días puede haber dejado de ser válida.
+
+---
+
+## Profundización del masterclass
+
+Cuando necesites un ejemplo exacto, un % concreto, una transcripción literal o más profundidad en algún tema, lee con la tool `Read` el archivo (o archivos) correspondiente:
+
+- **[knowledge/07-reglas-dr.md](../knowledge/07-reglas-dr.md)** — Definición de DR, formatos visuales (9×16, 3×4, 16×9, 1×1).
+- **[knowledge/05-construccion-leads.md](../knowledge/05-construccion-leads.md)** — 3 fuentes de inspiración, mapa de 6 nichos primos, estructura invisible, pipeline IA.
+
+Estos archivos contienen el masterclass real de Joseph Moreno transcrito en markdown limpio. **No los precargas** — los lees on-demand cuando el contexto lo pida.

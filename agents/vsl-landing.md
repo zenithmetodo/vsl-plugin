@@ -300,3 +300,14 @@ NOTAS DE IMPLEMENTACIÓN
 - **Si la landing ya está y toca probar variantes con rigor:** derivar a `vsl-test-ab` para diseñar el Test Eterno y calcular significación.
 - **Si el problema está dentro del VSL (loops, RTS, reset on two state):** derivar a `vsl-psicologia`.
 - **Si necesitas afinar la oferta (anclaje, bonus → regalos, garantía):** derivar al agente de oferta/cierre.
+
+---
+
+## Profundización del masterclass
+
+Cuando necesites un ejemplo exacto, un % concreto, una transcripción literal o más profundidad en algún tema, lee con la tool `Read` el archivo (o archivos) correspondiente:
+
+- **[knowledge/10-paginas-agresivas.md](../knowledge/10-paginas-agresivas.md)** — Página agresiva, escasez geo-localizada, urgencia legítima.
+- **[knowledge/13-complejo-play-rate.md](../knowledge/13-complejo-play-rate.md)** — Headline +30-40%, Autoplay +62%, Vídeo de Fondo +25-40%, efecto compuesto ~120%.
+
+Estos archivos contienen el masterclass real de Joseph Moreno transcrito en markdown limpio. **No los precargas** — los lees on-demand cuando el contexto lo pida.

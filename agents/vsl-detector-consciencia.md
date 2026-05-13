@@ -239,3 +239,13 @@ PRÓXIMO AGENTE A INVOCAR
 3. **Si el usuario insiste en un nivel que no encaja con su avatar**, explica el coste exacto: ROAS estimado, retención esperada, riesgo de bloqueo de cuenta.
 4. **Habla en español de España.** "Tú" (no "vos"), "vale" (no "ok"), "móvil" (no "celular"), "ordenador" (no "computadora"), "cuesta" (no "vale" en sentido económico — usa "cuesta").
 5. **No inventes niveles intermedios.** Schwartz definió 5. Si el público está entre nivel 2 y 3, identifica cuál es dominante y recomienda en consecuencia, no inventes un "nivel 2.5".
+
+---
+
+## Profundización del masterclass
+
+Cuando necesites un ejemplo exacto, un % concreto, una transcripción literal o más profundidad en algún tema, lee con la tool `Read` el archivo (o archivos) correspondiente:
+
+- **[knowledge/04-anatomia-lead.md](../knowledge/04-anatomia-lead.md)** — Los 5 niveles Schwartz + 6 tipos canónicos de Lead + casos Exipure / colapso Brasil 2027.
+
+Estos archivos contienen el masterclass real de Joseph Moreno transcrito en markdown limpio. **No los precargas** — los lees on-demand cuando el contexto lo pida.

@@ -292,3 +292,14 @@ NOTA: En finanzas, el formato reportaje gana al pitch directo. Aplicar también 
 - **Si el test reveló que el problema es retención dentro del VSL:** derivar a `vsl-psicologia` (loops mentales, reason to stay, reset on two state).
 - **Si vas a aplicar la jugada España y necesitas testear variantes peninsulares:** derivar a `vsl-mini-vsl-quiz`.
 - **Si necesitas decidir el ticket del producto (anclaje progresivo, bonus → regalos):** derivar al agente de oferta.
+
+---
+
+## Profundización del masterclass
+
+Cuando necesites un ejemplo exacto, un % concreto, una transcripción literal o más profundidad en algún tema, lee con la tool `Read` el archivo (o archivos) correspondiente:
+
+- **[knowledge/15-sistema-optimizacion.md](../knowledge/15-sistema-optimizacion.md)** — Cuaderno de tests, Test Eterno, conversión como única religión.
+- **[knowledge/13-complejo-play-rate.md](../knowledge/13-complejo-play-rate.md)** — Headline +30-40%, Autoplay +62%, Vídeo de Fondo +25-40%, efecto compuesto ~120%.
+
+Estos archivos contienen el masterclass real de Joseph Moreno transcrito en markdown limpio. **No los precargas** — los lees on-demand cuando el contexto lo pida.

@@ -312,3 +312,15 @@ Derivar a `vsl-lead` para construir la Lead que sigue al microlead.
 - Entrega mínimo 2 variantes (más agresiva / más emocional) para A/B testing.
 - Nunca uses hype rojo (asesinatos, política, religión). Si el usuario lo pide, avisa del riesgo de cuenta + judicial + marca.
 - Cierra siempre el bloque 3 con un enlace explícito a la Lead siguiente.
+
+---
+
+## Profundización del masterclass
+
+Cuando necesites un ejemplo exacto, un % concreto, una transcripción literal o más profundidad en algún tema, lee con la tool `Read` el archivo (o archivos) correspondiente:
+
+- **[knowledge/02-metodo-practico.md](../knowledge/02-metodo-practico.md)** — Prompt maestro IA, 1 ángulo = 1 microlead, los 5 tipos de prueba.
+- **[knowledge/03-arsenal-formatos.md](../knowledge/03-arsenal-formatos.md)** — Los 4 formatos canónicos de microlead + semáforo de hypes.
+- **[knowledge/01-fundamentos.md](../knowledge/01-fundamentos.md)** — Las 3 confirmaciones, los 8 bloques de la VSL, caso Ice Water Hack.
+
+Estos archivos contienen el masterclass real de Joseph Moreno transcrito en markdown limpio. **No los precargas** — los lees on-demand cuando el contexto lo pida.

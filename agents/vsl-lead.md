@@ -388,3 +388,15 @@ Mi nombre es Marco Rossi…"
 - Si el usuario pide tipo 1 (Oferta) con tráfico frío, AVISAR explícitamente del riesgo antes de escribir.
 - Nunca termines la Lead con bisagra obvia ("y ahora voy a presentarte a…"). Siempre puente narrativo natural.
 - Si modelas Lead de nicho primo, indica de dónde sale la estructura invisible y qué función ocupa cada bloque.
+
+---
+
+## Profundización del masterclass
+
+Cuando necesites un ejemplo exacto, un % concreto, una transcripción literal o más profundidad en algún tema, lee con la tool `Read` el archivo (o archivos) correspondiente:
+
+- **[knowledge/04-anatomia-lead.md](../knowledge/04-anatomia-lead.md)** — Los 5 niveles Schwartz + 6 tipos canónicos de Lead + casos Exipure / colapso Brasil 2027.
+- **[knowledge/05-construccion-leads.md](../knowledge/05-construccion-leads.md)** — 3 fuentes de inspiración, mapa de 6 nichos primos, estructura invisible, pipeline IA.
+- **[knowledge/06-taller-lead.md](../knowledge/06-taller-lead.md)** — Taller "Truco del Elefante", peer review, reframing en 3 versiones, los 4 loopings.
+
+Estos archivos contienen el masterclass real de Joseph Moreno transcrito en markdown limpio. **No los precargas** — los lees on-demand cuando el contexto lo pida.

@@ -1,6 +1,6 @@
 # VSL Masterclass · Plugin Claude Code
 
-Sistema completo de agentes Claude Code para construir Video Sales Letters (VSL), microleads, leads, landing pages y campañas de Direct Response. Basado en el módulo 02 de la formación **VSL's Millonarias** adaptada al español de España por Joseph Moreno.
+Sistema completo de agentes Claude Code para construir Video Sales Letters (VSL), microleads, leads, landing pages y campañas de Direct Response en español de España. **Creado por Joseph Moreno** a partir de formaciones de Brasil, EE.UU. y España combinadas con experiencia operativa propia.
 
 Un orquestador padre coordina **16 subagentes especializados** + **4 skills de conocimiento compartido**. Cada agente domina una pieza del puzzle: desde detectar el nivel de consciencia del lead hasta diseñar el Complejo del Play Rate de tu landing.
 
@@ -101,6 +101,37 @@ Cualquier agente puede precargarlas. Son la "base de conocimiento" del mastercla
 
 ---
 
+## Knowledge — el masterclass completo en markdown
+
+La carpeta `knowledge/` contiene **las 15 clases del masterclass** en markdown limpio (sin HTML, sin CSS). Cada agente puede leer estos archivos on-demand cuando necesita profundidad — un ejemplo exacto, un % concreto, un nombre de framework, una transcripción literal de una sección.
+
+| Archivo | Tema |
+|---|---|
+| `knowledge/00-INDEX.md` | Índice maestro + mapeo clase → agentes que la usan |
+| `knowledge/01-fundamentos.md` | Fundamentos del copywriting de Direct Response |
+| `knowledge/02-metodo-practico.md` | Método práctico de trabajo |
+| `knowledge/03-arsenal-formatos.md` | Arsenal de formatos de microlead |
+| `knowledge/04-anatomia-lead.md` | Anatomía del Lead + 6 tipos canónicos |
+| `knowledge/05-construccion-leads.md` | Construcción de leads |
+| `knowledge/06-taller-lead.md` | Taller práctico de Leads |
+| `knowledge/07-reglas-dr.md` | Reglas operativas del Direct Response |
+| `knowledge/08-cierre-agresivo.md` | Cierre agresivo + post-pitch |
+| `knowledge/09-info-vs-nutra.md` | Info vs Nutra + estrategia España |
+| `knowledge/10-paginas-agresivas.md` | Landings agresivas |
+| `knowledge/11-mini-vsl-quiz.md` | Mini VSLs + quiz funnels |
+| `knowledge/12-headlines.md` | Headlines de VSL |
+| `knowledge/13-complejo-play-rate.md` | Complejo del Play Rate |
+| `knowledge/14-psicologia-vsl.md` | Psicología del VSL |
+| `knowledge/15-sistema-optimizacion.md` | Sistema de optimización + tests A/B |
+
+**Diferencia con skills:**
+- **Skills** = conocimiento *siempre precargado* en el agente al iniciar (frameworks core, glosario).
+- **Knowledge** = conocimiento *consultable on-demand* (ejemplos, casos, transcripciones completas).
+
+Esto mantiene los agentes rápidos y ligeros, mientras te da acceso al masterclass entero cuando lo necesitas.
+
+---
+
 ## Cómo se llaman entre sí
 
 El padre `vsl-master` recibe la petición del usuario y, según lo que detecte, lanza uno o varios subagentes en paralelo o en secuencia.
@@ -129,7 +160,7 @@ Este plugin **no inventa**. Cada agente está construido a partir del masterclas
 - Gary Bencivenga (fórmula Beneficio + Credibilidad − Costo)
 - Joe Sugarman (el tobogán engrasado)
 - Stephan Georgia (RMBC framework)
-- Marconi Rômulo (módulo 02 VSL's Millonarias, fuente original)
+- Joseph Moreno (experiencia operativa en Brasil, EE.UU. y España — síntesis del masterclass)
 
 ---
 

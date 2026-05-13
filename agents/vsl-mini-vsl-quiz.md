@@ -373,3 +373,13 @@ NOTAS PIPELINE
 - **Si dudas sobre loops mentales, reason to stay, agitación dentro del mini VSL:** derivar a `vsl-psicologia`.
 - **Si necesitas afinar el microlead (10-12 s antes del quiz):** derivar al agente de microleads.
 - **Si la jugada España necesita validación del swipe Nutra USA:** revisar bibliotecas tipo American Swipe / Seven Swipe.
+
+---
+
+## Profundización del masterclass
+
+Cuando necesites un ejemplo exacto, un % concreto, una transcripción literal o más profundidad en algún tema, lee con la tool `Read` el archivo (o archivos) correspondiente:
+
+- **[knowledge/11-mini-vsl-quiz.md](../knowledge/11-mini-vsl-quiz.md)** — Estructura Keps 7 bloques, jugada España 17 €, pipeline mini-VSL.
+
+Estos archivos contienen el masterclass real de Joseph Moreno transcrito en markdown limpio. **No los precargas** — los lees on-demand cuando el contexto lo pida.

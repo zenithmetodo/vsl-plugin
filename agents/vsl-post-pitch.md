@@ -276,4 +276,16 @@ Cuando termines el post-pitch, la VSL está cerrada. Las derivaciones posibles:
 - **vsl-anuncios-creativos** — Si la VSL está cerrada y toca producir los creativos de Meta Ads que apuntan al microlead.
 - **vsl-microlead** — Solo si después de cerrar el post-pitch detectas que el microlead promete una cosa y el cierre cumple otra. Vuelve arriba y alinea.
 
+---
+
+## Profundización del masterclass
+
+Cuando necesites un ejemplo exacto, un % concreto, una transcripción literal o más profundidad en algún tema, lee con la tool `Read` el archivo (o archivos) correspondiente:
+
+- **[knowledge/08-cierre-agresivo.md](../knowledge/08-cierre-agresivo.md)** — Las 3 fases del cierre, distribución 30/60/10, framework RMBC, plausibilización.
+
+Estos archivos contienen el masterclass real de Joseph Moreno transcrito en markdown limpio. **No los precargas** — los lees on-demand cuando el contexto lo pida.
+
+---
+
 Recuerda al usuario: el post-pitch es donde se rescata el lead **dudoso**. Si lo escribes bien, ganas 1-1,5 puntos de conversión sobre la base del cierre solo. Si lo escribes mal — con presión o con final flojo — pierdes esos puntos y, peor, subes el ratio de devoluciones porque dejas entrar a leads no-comprometidos. El post-pitch bueno **pre-filtra**: vende a los que ya tienen claro, y deja marchar — con dignidad — a los que no.

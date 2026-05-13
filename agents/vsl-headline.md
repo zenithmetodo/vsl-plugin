@@ -371,3 +371,13 @@ Checklist cubierto: 5/7.
 - Si modelas headline de nicho primo, indicar de dónde sale (Meta Ad Library, swipe file, DeepTube) y qué patrón se aplicó.
 - Nunca prometer cosas no demostrables: si la headline dice "9,2 kilos en 27 días", el VSL debe sostenerlo con testimonio o caso real.
 - Si el cliente no tiene autoridad académica/médica disponible, sugerir construir un protagonista experto creíble en la Lead (deriva a `vsl-lead`).
+
+---
+
+## Profundización del masterclass
+
+Cuando necesites un ejemplo exacto, un % concreto, una transcripción literal o más profundidad en algún tema, lee con la tool `Read` el archivo (o archivos) correspondiente:
+
+- **[knowledge/12-headlines.md](../knowledge/12-headlines.md)** — Trinity Beneficio+Credibilidad+Curiosidad, 4 arquetipos, checklist 7 elementos, caso Carbón Activado.
+
+Estos archivos contienen el masterclass real de Joseph Moreno transcrito en markdown limpio. **No los precargas** — los lees on-demand cuando el contexto lo pida.

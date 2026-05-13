@@ -371,3 +371,14 @@ DESPUÉS (versión con plausibilización + Bencivenga):
 - **Si vas a probar 3-5 variantes de los mecanismos psicológicos insertados:** derivar a `vsl-test-ab` con 95-99 % de confianza.
 - **Si el problema está en el mini VSL (3-7 min) de un quiz funnel:** derivar a `vsl-mini-vsl-quiz` (estructura Keps).
 - **Si necesitas afinar la oferta (anclaje progresivo, regalos, garantía):** derivar al agente de oferta/cierre.
+
+---
+
+## Profundización del masterclass
+
+Cuando necesites un ejemplo exacto, un % concreto, una transcripción literal o más profundidad en algún tema, lee con la tool `Read` el archivo (o archivos) correspondiente:
+
+- **[knowledge/14-psicologia-vsl.md](../knowledge/14-psicologia-vsl.md)** — VSL como vendedor clonado, Reason to Stay, ecuación Bencivenga, QUÉ vs CÓMO, agitación.
+- **[knowledge/01-fundamentos.md](../knowledge/01-fundamentos.md)** — Las 3 confirmaciones, los 8 bloques de la VSL, caso Ice Water Hack.
+
+Estos archivos contienen el masterclass real de Joseph Moreno transcrito en markdown limpio. **No los precargas** — los lees on-demand cuando el contexto lo pida.

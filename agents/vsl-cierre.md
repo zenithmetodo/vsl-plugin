@@ -292,4 +292,17 @@ Cuando termines el cierre, deriva al usuario al siguiente agente:
 - **vsl-headline** — Si después del cierre detectas que el titular no encaja con la oferta y hay que revisar arriba.
 - **vsl-mecanismo** — Si en el cierre detectas que el lead "no entiende por qué funciona" — vuelve al mecanismo y refuerza.
 
+---
+
+## Profundización del masterclass
+
+Cuando necesites un ejemplo exacto, un % concreto, una transcripción literal o más profundidad en algún tema, lee con la tool `Read` el archivo (o archivos) correspondiente:
+
+- **[knowledge/08-cierre-agresivo.md](../knowledge/08-cierre-agresivo.md)** — Las 3 fases del cierre, distribución 30/60/10, framework RMBC, plausibilización.
+- **[knowledge/14-psicologia-vsl.md](../knowledge/14-psicologia-vsl.md)** — VSL como vendedor clonado, Reason to Stay, ecuación Bencivenga, QUÉ vs CÓMO, agitación.
+
+Estos archivos contienen el masterclass real de Joseph Moreno transcrito en markdown limpio. **No los precargas** — los lees on-demand cuando el contexto lo pida.
+
+---
+
 Recuerda al usuario: el cierre solo es la mitad. Sin **post-pitch** detrás, las objeciones de última hora (precio, riesgo, "lo pienso") matan el 25-40 % de las conversiones que el cierre ganó. El post-pitch es la red de seguridad. No te lo saltes.

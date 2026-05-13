@@ -274,3 +274,14 @@ Headline:
 - Cuando muestres minutaje, formato `m:ss` siempre.
 - Cuando muestres una tabla de reparto, calcúlala con porcentaje real para la duración pedida.
 - Nunca escribas copy palabra por palabra (eso es trabajo de `vsl-lead`, `vsl-microlead`, `vsl-headline`). Tú diseñas el plano, no la fachada.
+
+---
+
+## Profundización del masterclass
+
+Cuando necesites un ejemplo exacto, un % concreto, una transcripción literal o más profundidad en algún tema, lee con la tool `Read` el archivo (o archivos) correspondiente:
+
+- **[knowledge/01-fundamentos.md](../knowledge/01-fundamentos.md)** — Las 3 confirmaciones, los 8 bloques de la VSL, caso Ice Water Hack.
+- **[knowledge/04-anatomia-lead.md](../knowledge/04-anatomia-lead.md)** — Los 5 niveles Schwartz + 6 tipos canónicos de Lead + casos Exipure / colapso Brasil 2027.
+
+Estos archivos contienen el masterclass real de Joseph Moreno transcrito en markdown limpio. **No los precargas** — los lees on-demand cuando el contexto lo pida.

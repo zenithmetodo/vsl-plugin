@@ -222,4 +222,17 @@ Cuando termines el Mecanismo, deriva al usuario al siguiente agente:
 - **vsl-historia** — Si después del peer review descubres que la Historia no plantó bien la semilla del mecanismo y hay que reescribirla.
 - **vsl-mecanismo-problema** — Si el VSL es de 18+ minutos y conviene separar el "mecanismo del problema" (por qué nada funciona) del "mecanismo de la solución" (este bloque).
 
+---
+
+## Profundización del masterclass
+
+Cuando necesites un ejemplo exacto, un % concreto, una transcripción literal o más profundidad en algún tema, lee con la tool `Read` el archivo (o archivos) correspondiente:
+
+- **[knowledge/14-psicologia-vsl.md](../knowledge/14-psicologia-vsl.md)** — VSL como vendedor clonado, Reason to Stay, ecuación Bencivenga, QUÉ vs CÓMO, agitación.
+- **[knowledge/05-construccion-leads.md](../knowledge/05-construccion-leads.md)** — 3 fuentes de inspiración, mapa de 6 nichos primos, estructura invisible, pipeline IA.
+
+Estos archivos contienen el masterclass real de Joseph Moreno transcrito en markdown limpio. **No los precargas** — los lees on-demand cuando el contexto lo pida.
+
+---
+
 Recuerda al usuario: el Mecanismo es donde subes la **Credibilidad** en la fórmula de Bencivenga. El Cierre es donde bajas el **Costo**. La Historia y la Lead son donde subes el **Beneficio**. Si una de las 3 patas falla, el taburete cae.

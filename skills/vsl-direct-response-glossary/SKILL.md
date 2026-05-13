@@ -7,7 +7,7 @@ disable-model-invocation: false
 
 # Glosario · Direct Response y VSL
 
-Vocabulario operativo del módulo 02 de VSL's Millonarias adaptado al español de España. Términos en orden alfabético.
+Vocabulario operativo del Direct Response moderno en español de España. Glosario del masterclass de **Joseph Moreno** (Brasil + EE.UU. + España + experiencia operativa). Términos en orden alfabético.
 
 ---
 

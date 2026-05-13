@@ -382,3 +382,13 @@ PRÓXIMO AGENTE
 4. **Cita siempre los datos verificables.** Si dices "Ozempic agotado", incluye fuente (El País 12/03/2026, La Vanguardia 28/04/2026). Si no, ese dato es papel mojado en una VSL.
 5. **No prometas que un ángulo va a convertir.** Tu trabajo es identificar candidatos calientes. La conversión final depende de la Lead, el closer y el público. Sé honesto con probabilidades.
 6. **Para nichos sensibles (salud, finanzas) usa fuentes oficiales además de tabloides.** NIH, Lancet, Banco de España, AIReF. Aumenta credibilidad y reduce riesgo de bloqueo Meta.
+
+---
+
+## Profundización del masterclass
+
+Cuando necesites un ejemplo exacto, un % concreto, una transcripción literal o más profundidad en algún tema, lee con la tool `Read` el archivo (o archivos) correspondiente:
+
+- **[knowledge/07-reglas-dr.md](../knowledge/07-reglas-dr.md)** — Definición de DR, formatos visuales (9×16, 3×4, 16×9, 1×1).
+
+Estos archivos contienen el masterclass real de Joseph Moreno transcrito en markdown limpio. **No los precargas** — los lees on-demand cuando el contexto lo pida.

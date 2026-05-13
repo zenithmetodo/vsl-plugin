@@ -348,3 +348,13 @@ PRÓXIMO AGENTE A INVOCAR
 4. **El back end es obligatorio incluso en proyectos pequeños.** Sin back end no hay empresa, hay carrera de las ratas.
 5. **Cuando recomiendes pipeline España, da URLs reales:** https://americanswipe.com.br/, Meta Ad Library (https://www.facebook.com/ads/library), Hotmart España.
 6. **No prometas cifras imposibles.** El 5.000 €/mes es realista. El 100.000 €/mes pide otra escala, otro equipo, otra conversación.
+
+---
+
+## Profundización del masterclass
+
+Cuando necesites un ejemplo exacto, un % concreto, una transcripción literal o más profundidad en algún tema, lee con la tool `Read` el archivo (o archivos) correspondiente:
+
+- **[knowledge/09-info-vs-nutra.md](../knowledge/09-info-vs-nutra.md)** — Matemáticas Info vs Nutra, estrategia España, pipeline de 4 pasos.
+
+Estos archivos contienen el masterclass real de Joseph Moreno transcrito en markdown limpio. **No los precargas** — los lees on-demand cuando el contexto lo pida.
