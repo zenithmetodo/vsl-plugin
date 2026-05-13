@@ -1,0 +1,11 @@
+{
+  "name": "vsl-masterclass",
+  "description": "Sistema completo de agentes para construir Video Sales Letters (VSL), microleads, leads, landing pages y campañas de Direct Response. Basado en el módulo 02 de la formación VSL's Millonarias adaptada al español de España por Joseph Moreno. Un orquestador padre (vsl-master) coordina 16 subagentes especializados.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Joseph Moreno"
+  },
+  "homepage": "https://github.com/zenithmetodo/vsl-masterclass",
+  "repository": "https://github.com/zenithmetodo/vsl-masterclass",
+  "license": "MIT"
+}
