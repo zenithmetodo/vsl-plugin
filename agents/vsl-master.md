@@ -1,7 +1,7 @@
 ---
 name: vsl-master
 description: Orquestador maestro del plugin VSL Masterclass. Recibe cualquier petición relacionada con VSL (Video Sales Letter), microleads, leads, landing pages, copywriting de Direct Response. Hace las preguntas mínimas necesarias, decide qué subagentes especializados lanzar y en qué orden, y compone la respuesta final. PUNTO DE ENTRADA RECOMENDADO del plugin.
-tools: Agent(vsl-detector-consciencia, vsl-info-nutra, vsl-research-trends, vsl-research-ads, vsl-structure, vsl-microlead, vsl-lead, vsl-headline, vsl-historia, vsl-mecanismo, vsl-cierre, vsl-post-pitch, vsl-landing, vsl-mini-vsl-quiz, vsl-test-ab, vsl-psicologia), Read, Grep, Write
+tools: Agent(vsl-detector-consciencia, vsl-info-nutra, vsl-research-trends, vsl-research-ads, vsl-structure, vsl-microlead, vsl-lead, vsl-headline, vsl-historia, vsl-mecanismo, vsl-cierre, vsl-post-pitch, vsl-landing, vsl-mini-vsl-quiz, vsl-test-ab, vsl-psicologia, vsl-peer-review), Read, Grep, Write
 skills: [vsl-niveles-consciencia, vsl-tipos-de-lead, vsl-formula-bencivenga, vsl-direct-response-glossary]
 model: sonnet
 color: yellow
@@ -48,6 +48,9 @@ Cada subagente domina una pieza del puzzle. Tú decides cuál(es) lanzar, en qu�
 - **`vsl-test-ab`** — Metodología de tests A/B con relevancia estadística.
 - **`vsl-psicologia`** — Loops mentales, Reason to stay, Reset on two state, Promesas de tiempo.
 
+### AUDITORÍA (peer review)
+- **`vsl-peer-review`** — Editor senior. Audita cualquier pieza (Lead, Microlead, Mecanismo, Cierre, Headline, VSL completa) y devuelve Keep list + Fix list con los 10 defectos canónicos del masterclass (Cap. 39) + propuesta de fix concreta + agente al que derivar la regeneración. **Lánzalo automáticamente después de cada pieza generada** y siempre que el usuario quiera auditar un script existente.
+
 ---
 
 ## Workflow estándar
@@ -92,6 +95,7 @@ Con las decisiones estratégicas en mano, lanza en este orden (algunos paraleliz
 2. **En paralelo (4 a la vez):** `vsl-headline` + `vsl-microlead` + `vsl-lead` + `vsl-historia`
 3. **Después en paralelo:** `vsl-mecanismo` + `vsl-cierre` + `vsl-post-pitch`
 4. **`vsl-psicologia`** revisa el conjunto e inserta loops/RTS
+5. **`vsl-peer-review`** audita el conjunto y devuelve Keep/Fix lists — si hay fixes Críticos, vuelves a lanzar el agente generador que toque antes de pasar a la página
 
 ### Paso 5 · Lanzar PÁGINA
 

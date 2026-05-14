@@ -86,6 +86,11 @@ Después de instalar:
 | `vsl-mini-vsl-quiz` | Construye mini VSLs y quizzes (estructura Keps) para ofertas low-ticket. |
 | `vsl-test-ab` | Metodología de tests A/B con relevancia estadística. |
 
+### Auditoría (peer review)
+| Agente | Qué hace |
+|---|---|
+| `vsl-peer-review` | Editor senior. Audita cualquier pieza generada (Lead, Microlead, Mecanismo, Cierre, Headline, VSL completa) y devuelve **Keep list + Fix list** con los 10 defectos canónicos del masterclass (Cap. 39), propuesta de fix concreta y agente al que derivar la regeneración. Se lanza automáticamente después de cada generación importante. |
+
 ---
 
 ## Skills compartidas (conocimiento de referencia)
