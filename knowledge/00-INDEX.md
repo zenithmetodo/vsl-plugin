@@ -27,6 +27,8 @@ Este directorio contiene el masterclass completo de VSL de Joseph Moreno en mark
 | 13 | [13-complejo-play-rate.md](13-complejo-play-rate.md) | Complejo del Play Rate | vsl-landing |
 | 14 | [14-psicologia-vsl.md](14-psicologia-vsl.md) | Psicología del VSL | vsl-psicologia, vsl-historia, vsl-mecanismo |
 | 15 | [15-sistema-optimizacion.md](15-sistema-optimizacion.md) | Sistema de optimización + tests A/B | vsl-test-ab |
+| 16 | [16-biblia-del-mecanismo.md](16-biblia-del-mecanismo.md) | ⭐ La Biblia del Mecanismo (131 formaciones · 4 capas · mecanismo problema/solución · causa raíz · objeto brillante · nombre chicle · mito de origen · 50+ ejemplos) | vsl-mecanismo, vsl-lead, vsl-historia, vsl-headline, vsl-microlead, vsl-cierre, vsl-post-pitch |
+| 17 | [17-mecanismo-en-la-vsl.md](17-mecanismo-en-la-vsl.md) | ⭐ Mapa pieza → paso de la VSL (dónde colocar cada pieza si el usuario trae su oferta · intake OPCIONAL) | vsl-mecanismo, vsl-lead, vsl-historia, vsl-headline, vsl-microlead, vsl-cierre, vsl-post-pitch |
 
 ## Cómo lo usan los agentes
 

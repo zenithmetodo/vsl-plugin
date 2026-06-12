@@ -108,7 +108,7 @@ Cualquier agente puede precargarlas. Son la "base de conocimiento" del mastercla
 
 ## Knowledge — el masterclass completo en markdown
 
-La carpeta `knowledge/` contiene **las 15 clases del masterclass** en markdown limpio (sin HTML, sin CSS). Cada agente puede leer estos archivos on-demand cuando necesita profundidad — un ejemplo exacto, un % concreto, un nombre de framework, una transcripción literal de una sección.
+La carpeta `knowledge/` contiene **las 15 clases del masterclass + la Biblia del Mecanismo (clases 16-17)** en markdown limpio (sin HTML, sin CSS). Cada agente puede leer estos archivos on-demand cuando necesita profundidad — un ejemplo exacto, un % concreto, un nombre de framework, una transcripción literal de una sección.
 
 | Archivo | Tema |
 |---|---|
@@ -128,6 +128,10 @@ La carpeta `knowledge/` contiene **las 15 clases del masterclass** en markdown l
 | `knowledge/13-complejo-play-rate.md` | Complejo del Play Rate |
 | `knowledge/14-psicologia-vsl.md` | Psicología del VSL |
 | `knowledge/15-sistema-optimizacion.md` | Sistema de optimización + tests A/B |
+| `knowledge/16-biblia-del-mecanismo.md` | ⭐ **La Biblia del Mecanismo** — 131 formaciones destiladas: las 4 capas, mecanismo del problema/solución, causa raíz, objeto brillante, nombre chicle, mito de origen, 50+ ejemplos |
+| `knowledge/17-mecanismo-en-la-vsl.md` | ⭐ **Mapa pieza → paso** — dónde colocar cada pieza del mecanismo dentro de la VSL **si el usuario trae su oferta ya construida** (intake OPCIONAL · si no la tiene, la VSL se hace igual) |
+
+> **Mecanismo + Oferta:** si ya tienes tu oferta construida (desde `zenith-crea-ofertas`), los agentes de VSL colocan cada pieza (mecanismo, causa raíz, objeto brillante, nombre chicle, mito de origen…) en su paso exacto según el mapa de la clase 17. Si no la tienes, no pasa nada: la VSL se construye con normalidad y la Biblia queda como referencia.
 
 **Diferencia con skills:**
 - **Skills** = conocimiento *siempre precargado* en el agente al iniciar (frameworks core, glosario).

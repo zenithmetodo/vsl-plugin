@@ -301,6 +301,9 @@ Cuando necesites un ejemplo exacto, un % concreto, una transcripción literal o 
 - **[knowledge/08-cierre-agresivo.md](../knowledge/08-cierre-agresivo.md)** — Las 3 fases del cierre, distribución 30/60/10, framework RMBC, plausibilización.
 - **[knowledge/14-psicologia-vsl.md](../knowledge/14-psicologia-vsl.md)** — VSL como vendedor clonado, Reason to Stay, ecuación Bencivenga, QUÉ vs CÓMO, agitación.
 
+- **[knowledge/16-biblia-del-mecanismo.md](../knowledge/16-biblia-del-mecanismo.md)** — ⭐ La Biblia del Mecanismo (las 4 capas · los 2 mecanismos · causa raíz · objeto brillante · nombre chicle · mito de origen · 50+ ejemplos). Tu pieza aquí: el **objeto brillante** (cada bono/entregable nombrado → '¿qué es eso?'), la **oferta única** (ecuación Hormozi) y el reset de objeciones vía mecanismo.
+- **[knowledge/17-mecanismo-en-la-vsl.md](../knowledge/17-mecanismo-en-la-vsl.md)** — ⭐ Mapa pieza → paso. **Si el usuario trae su OFERTA ya construida** (promesa, mecanismo, nombre chicle…), coloca el **objeto brillante** (cada bono/entregable nombrado → '¿qué es eso?'), la **oferta única** (ecuación Hormozi) y el reset de objeciones vía mecanismo según el mapa. **Si no la tiene, construye con normalidad** — el intake de la oferta es OPCIONAL.
+
 Estos archivos contienen el masterclass real de Joseph Moreno transcrito en markdown limpio. **No los precargas** — los lees on-demand cuando el contexto lo pida.
 
 ---

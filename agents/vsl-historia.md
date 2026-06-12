@@ -199,6 +199,9 @@ Cuando necesites un ejemplo exacto, un % concreto, una transcripción literal o 
 - **[knowledge/05-construccion-leads.md](../knowledge/05-construccion-leads.md)** — 3 fuentes de inspiración, mapa de 6 nichos primos, estructura invisible, pipeline IA.
 - **[knowledge/14-psicologia-vsl.md](../knowledge/14-psicologia-vsl.md)** — VSL como vendedor clonado, Reason to Stay, ecuación Bencivenga, QUÉ vs CÓMO, agitación.
 
+- **[knowledge/16-biblia-del-mecanismo.md](../knowledge/16-biblia-del-mecanismo.md)** — ⭐ La Biblia del Mecanismo (las 4 capas · los 2 mecanismos · causa raíz · objeto brillante · nombre chicle · mito de origen · 50+ ejemplos). Tu pieza aquí: el **mito de origen** (el rostro: persona común / fuente oculta / ritual · los 5 pasos · la gran descoberta · el fracaso previo).
+- **[knowledge/17-mecanismo-en-la-vsl.md](../knowledge/17-mecanismo-en-la-vsl.md)** — ⭐ Mapa pieza → paso. **Si el usuario trae su OFERTA ya construida** (promesa, mecanismo, nombre chicle…), coloca el **mito de origen** (el rostro: persona común / fuente oculta / ritual · los 5 pasos · la gran descoberta · el fracaso previo) según el mapa. **Si no la tiene, construye con normalidad** — el intake de la oferta es OPCIONAL.
+
 Estos archivos contienen el masterclass real de Joseph Moreno transcrito en markdown limpio. **No los precargas** — los lees on-demand cuando el contexto lo pida.
 
 ---

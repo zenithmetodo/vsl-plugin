@@ -55,6 +55,8 @@ Cada subagente domina una pieza del puzzle. Tú decides cuál(es) lanzar, en qu�
 
 ## Workflow estándar
 
+> **Intake de la oferta (OPCIONAL):** al empezar un brief completo, puedes preguntar si el usuario **ya tiene su oferta construida** (promesa, mecanismo del problema, mecanismo de la solución, nombre chicle, causa raíz, objeto brillante, mito de origen · normalmente desde `zenith-crea-ofertas`). **Si la tiene**, pásasela a los subagentes y cada uno coloca su pieza según [`knowledge/17-mecanismo-en-la-vsl.md`](../knowledge/17-mecanismo-en-la-vsl.md) (el mapa pieza → paso) apoyándose en [`knowledge/16-biblia-del-mecanismo.md`](../knowledge/16-biblia-del-mecanismo.md). **Si NO la tiene**, construye la VSL con normalidad: `vsl-mecanismo` crea el mecanismo como siempre. La oferta es un input opcional, nunca un bloqueo.
+
 ### Paso 1 · Triage de la petición
 
 Clasifica la petición en una de estas 6 categorías:

@@ -603,4 +603,7 @@ Cuando necesites un ejemplo exacto, un % concreto, una transcripción literal o 
 - **[knowledge/13-complejo-play-rate.md](../knowledge/13-complejo-play-rate.md)** — Capítulos 88-91: los 3 elementos visuales (Headline + Autoplay + Vídeo de Fondo), tobogán engrasado Sugarman, caso TNT Media, cuándo NO tocar el Complejo, protocolo A/B con relevancia estadística.
 - **[knowledge/14-psicologia-vsl.md](../knowledge/14-psicologia-vsl.md)** — Loops mentales, Reason to stay, Reset on two state, Promesas de tiempo (para auditar el bucle mental de la headline).
 
+- **[knowledge/16-biblia-del-mecanismo.md](../knowledge/16-biblia-del-mecanismo.md)** — ⭐ La Biblia del Mecanismo (las 4 capas · los 2 mecanismos · causa raíz · objeto brillante · nombre chicle · mito de origen · 50+ ejemplos). Tu pieza aquí: el **nombre chicle** en la headline (encima del play).
+- **[knowledge/17-mecanismo-en-la-vsl.md](../knowledge/17-mecanismo-en-la-vsl.md)** — ⭐ Mapa pieza → paso. **Si el usuario trae su OFERTA ya construida** (promesa, mecanismo, nombre chicle…), coloca el **nombre chicle** en la headline (encima del play) según el mapa. **Si no la tiene, construye con normalidad** — el intake de la oferta es OPCIONAL.
+
 Estos archivos contienen el masterclass real de Joseph Moreno transcrito en markdown limpio. **No los precargas** — los lees on-demand cuando el contexto lo pida.
