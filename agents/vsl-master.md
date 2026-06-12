@@ -56,6 +56,8 @@ Cada subagente domina una pieza del puzzle. Tú decides cuál(es) lanzar, en qu�
 ## Workflow estándar
 
 > **Intake de la oferta (OPCIONAL):** al empezar un brief completo, puedes preguntar si el usuario **ya tiene su oferta construida** (promesa, mecanismo del problema, mecanismo de la solución, nombre chicle, causa raíz, objeto brillante, mito de origen · normalmente desde `zenith-crea-ofertas`). **Si la tiene**, pásasela a los subagentes y cada uno coloca su pieza según [`knowledge/17-mecanismo-en-la-vsl.md`](../knowledge/17-mecanismo-en-la-vsl.md) (el mapa pieza → paso) apoyándose en [`knowledge/16-biblia-del-mecanismo.md`](../knowledge/16-biblia-del-mecanismo.md). **Si NO la tiene**, construye la VSL con normalidad: `vsl-mecanismo` crea el mecanismo como siempre. La oferta es un input opcional, nunca un bloqueo.
+>
+> **Nivel de consciencia (OPCIONAL):** del mismo modo, puedes preguntar si conoce el **nivel de consciencia** (Schwartz) y el **grado de sofisticación** del mercado. **Si lo sabe**, eso dicta el tipo de Lead y la estructura de copy: cada subagente afina su pieza según [`knowledge/19-copy-en-la-vsl.md`](../knowledge/19-copy-en-la-vsl.md) (el mapa pieza → paso del copy) apoyándose en [`knowledge/18-biblia-del-copy.md`](../knowledge/18-biblia-del-copy.md) (la Biblia del Copy). **Si NO lo sabe**, construye con normalidad (mercado frío-medio · Lead de Problema-Solución por defecto). El nivel de consciencia es un input opcional, nunca un bloqueo.
 
 ### Paso 1 · Triage de la petición
 

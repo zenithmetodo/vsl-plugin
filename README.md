@@ -114,7 +114,7 @@ Cualquier agente puede precargarlas. Son la "base de conocimiento" del mastercla
 
 ## Knowledge — el masterclass completo en markdown
 
-La carpeta `knowledge/` contiene **las 15 clases del masterclass + la Biblia del Mecanismo (clases 16-17)** en markdown limpio (sin HTML, sin CSS). Cada agente puede leer estos archivos on-demand cuando necesita profundidad — un ejemplo exacto, un % concreto, un nombre de framework, una transcripción literal de una sección.
+La carpeta `knowledge/` contiene **las 15 clases del masterclass + la Biblia del Mecanismo (clases 16-17) + la Biblia del Copy (clases 18-19)** en markdown limpio (sin HTML, sin CSS). Cada agente puede leer estos archivos on-demand cuando necesita profundidad — un ejemplo exacto, un % concreto, un nombre de framework, una transcripción literal de una sección.
 
 | Archivo | Tema |
 |---|---|
@@ -136,6 +136,8 @@ La carpeta `knowledge/` contiene **las 15 clases del masterclass + la Biblia del
 | `knowledge/15-sistema-optimizacion.md` | Sistema de optimización + tests A/B |
 | `knowledge/16-biblia-del-mecanismo.md` | ⭐ **La Biblia del Mecanismo** — 131 formaciones destiladas: las 4 capas, mecanismo del problema/solución, causa raíz, objeto brillante, nombre chicle, mito de origen, 50+ ejemplos |
 | `knowledge/17-mecanismo-en-la-vsl.md` | ⭐ **Mapa pieza → paso** — dónde colocar cada pieza del mecanismo dentro de la VSL **si el usuario trae su oferta ya construida** (intake OPCIONAL · si no la tiene, la VSL se hace igual) |
+| `knowledge/18-biblia-del-copy.md` | ⭐ **La Biblia del Copy** — NeuroCopywriting de Respuesta Directa: deseo, Sistema 1/2, palancas de Blair Warren, niveles de consciencia, sofisticación, Gran Idea, Great Leads, estructuras, prueba, headlines, storytelling, oferta Hormozi, cierre |
+| `knowledge/19-copy-en-la-vsl.md` | ⭐ **Mapa pieza → paso (copy)** — dónde aplicar cada principio del copy dentro de la VSL **si conoces el nivel de consciencia y la sofisticación del mercado** (input OPCIONAL · si no, la VSL se hace igual) |
 
 > **Mecanismo + Oferta:** si ya tienes tu oferta construida (desde `zenith-crea-ofertas`), los agentes de VSL colocan cada pieza (mecanismo, causa raíz, objeto brillante, nombre chicle, mito de origen…) en su paso exacto según el mapa de la clase 17. Si no la tienes, no pasa nada: la VSL se construye con normalidad y la Biblia queda como referencia.
 

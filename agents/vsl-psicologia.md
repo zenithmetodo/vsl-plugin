@@ -381,4 +381,7 @@ Cuando necesites un ejemplo exacto, un % concreto, una transcripción literal o 
 - **[knowledge/14-psicologia-vsl.md](../knowledge/14-psicologia-vsl.md)** — VSL como vendedor clonado, Reason to Stay, ecuación Bencivenga, QUÉ vs CÓMO, agitación.
 - **[knowledge/01-fundamentos.md](../knowledge/01-fundamentos.md)** — Las 3 confirmaciones, los 8 bloques de la VSL, caso Ice Water Hack.
 
+- **[knowledge/18-biblia-del-copy.md](../knowledge/18-biblia-del-copy.md)** — ⭐ La Biblia del Copy (deseo · Sistema 1/2 · palancas de Blair Warren · niveles de consciencia · sofisticación · Gran Idea · Great Leads · estructuras · prueba · headlines · storytelling · oferta Hormozi · cierre). Tu pieza aquí: la **psicología de la decisión** (Sistema 1 y 2 · Kahneman), las **5 palancas de Blair Warren**, la **quiebra de patrón** y el reset de objeciones.
+- **[knowledge/19-copy-en-la-vsl.md](../knowledge/19-copy-en-la-vsl.md)** — ⭐ Mapa pieza → paso (copy). **Si conoces el nivel de consciencia y la sofisticación del mercado**, afina las palancas psicológicas y el reset de objeciones según el mapa. **Si no, construye con normalidad** — el input es OPCIONAL.
+
 Estos archivos contienen el masterclass real de Joseph Moreno transcrito en markdown limpio. **No los precargas** — los lees on-demand cuando el contexto lo pida.

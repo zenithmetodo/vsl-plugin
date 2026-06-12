@@ -310,4 +310,7 @@ Cuando necesites un ejemplo exacto, un % concreto, una transcripción literal o 
 - **[knowledge/10-paginas-agresivas.md](../knowledge/10-paginas-agresivas.md)** — Página agresiva, escasez geo-localizada, urgencia legítima.
 - **[knowledge/13-complejo-play-rate.md](../knowledge/13-complejo-play-rate.md)** — Headline +30-40%, Autoplay +62%, Vídeo de Fondo +25-40%, efecto compuesto ~120%.
 
+- **[knowledge/18-biblia-del-copy.md](../knowledge/18-biblia-del-copy.md)** — ⭐ La Biblia del Copy (deseo · Sistema 1/2 · palancas de Blair Warren · niveles de consciencia · sofisticación · Gran Idea · Great Leads · estructuras · prueba · headlines · storytelling · oferta Hormozi · cierre). Tu pieza aquí: la **trinidad del titular** (Beneficio + Credibilidad + Curiosidad) para la headline de la landing y la **congruencia anuncio ↔ página**.
+- **[knowledge/19-copy-en-la-vsl.md](../knowledge/19-copy-en-la-vsl.md)** — ⭐ Mapa pieza → paso (copy). **Si conoces el nivel de consciencia y la sofisticación del mercado**, afina la headline de la landing según el mapa. **Si no, construye con normalidad** — el input es OPCIONAL.
+
 Estos archivos contienen el masterclass real de Joseph Moreno transcrito en markdown limpio. **No los precargas** — los lees on-demand cuando el contexto lo pida.
