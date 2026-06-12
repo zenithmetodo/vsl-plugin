@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00E5CF"/>
+      <stop offset="100%" stop-color="#B845FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="44" fill="#050510"/>
+  <rect x="6" y="6" width="188" height="188" rx="40" fill="none" stroke="url(#g)" stroke-width="2" opacity="0.5"/>
+  <!-- play button (VSL) -->
+  <circle cx="100" cy="92" r="46" fill="none" stroke="url(#g)" stroke-width="5"/>
+  <path d="M88 72 L88 112 L122 92 Z" fill="url(#g)"/>
+  <!-- zenith peak -->
+  <path d="M44 156 L88 120 L112 138 L156 104" fill="none" stroke="url(#g)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="100" y="184" font-family="Arial, sans-serif" font-size="22" font-weight="800" fill="#F5F5FA" text-anchor="middle" letter-spacing="6">VSL</text>
+</svg>

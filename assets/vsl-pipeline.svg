@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5CF"/>
+      <stop offset="100%" stop-color="#B845FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="280" fill="#050510"/>
+  <text x="500" y="40" font-family="Georgia, serif" font-size="24" font-style="italic" font-weight="700" fill="#F5F5FA" text-anchor="middle">Pipeline de la VSL · estructura canónica</text>
+  <!-- flow line -->
+  <line x1="70" y1="120" x2="930" y2="120" stroke="url(#g)" stroke-width="3" opacity="0.4"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <!-- nodes -->
+    <g>
+      <circle cx="100" cy="120" r="30" fill="#0B0B17" stroke="#00E5CF" stroke-width="2.5"/>
+      <text x="100" y="126" font-size="13" font-weight="800" fill="#00E5CF">Micro</text>
+      <text x="100" y="172" font-size="11.5" fill="#8A8A9D">lead</text>
+    </g>
+    <g>
+      <circle cx="240" cy="120" r="30" fill="#0B0B17" stroke="#4DECDB" stroke-width="2.5"/>
+      <text x="240" y="126" font-size="14" font-weight="800" fill="#4DECDB">Lead</text>
+      <text x="240" y="172" font-size="11.5" fill="#8A8A9D">+ agitación</text>
+    </g>
+    <g>
+      <circle cx="380" cy="120" r="30" fill="#0B0B17" stroke="#7CC7F0" stroke-width="2.5"/>
+      <text x="380" y="126" font-size="13" font-weight="800" fill="#9DD0F5">Histor.</text>
+      <text x="380" y="172" font-size="11.5" fill="#8A8A9D">mito de origen</text>
+    </g>
+    <g>
+      <circle cx="520" cy="120" r="34" fill="#0B0B17" stroke="#B845FF" stroke-width="3"/>
+      <text x="520" y="118" font-size="13" font-weight="800" fill="#C972FF">Mecan.</text>
+      <text x="520" y="133" font-size="10" fill="#C972FF">único</text>
+      <text x="520" y="176" font-size="11.5" fill="#8A8A9D">⭐ las 4 capas</text>
+    </g>
+    <g>
+      <circle cx="660" cy="120" r="30" fill="#0B0B17" stroke="#C972FF" stroke-width="2.5"/>
+      <text x="660" y="126" font-size="14" font-weight="800" fill="#C972FF">Cierre</text>
+      <text x="660" y="172" font-size="11.5" fill="#8A8A9D">obj. brillante</text>
+    </g>
+    <g>
+      <circle cx="800" cy="120" r="30" fill="#0B0B17" stroke="#C972FF" stroke-width="2.5"/>
+      <text x="800" y="126" font-size="14" font-weight="800" fill="#C972FF">Pitch</text>
+      <text x="800" y="172" font-size="11.5" fill="#8A8A9D">oferta + bonos</text>
+    </g>
+    <g>
+      <circle cx="920" cy="120" r="26" fill="#0B0B17" stroke="#B845FF" stroke-width="2.5"/>
+      <text x="920" y="125" font-size="12" font-weight="800" fill="#C972FF">Post</text>
+      <text x="920" y="168" font-size="11.5" fill="#8A8A9D">pitch</text>
+    </g>
+  </g>
+  <!-- bencivenga bar -->
+  <rect x="100" y="220" width="820" height="40" rx="10" fill="#0B0B17" stroke="url(#g)" stroke-width="1.5"/>
+  <text x="510" y="245" font-family="Arial, sans-serif" font-size="13.5" fill="#C5C5D4" text-anchor="middle">Bencivenga · <tspan fill="#4DECDB" font-weight="700">Beneficio</tspan> (Lead+Historia) + <tspan fill="#C972FF" font-weight="700">Credibilidad</tspan> (Mecanismo) − <tspan fill="#F5C451" font-weight="700">Costo</tspan> (Cierre)</text>
+</svg>

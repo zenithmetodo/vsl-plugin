@@ -1,8 +1,14 @@
+<div align="center">
+
+<img src="assets/vsl-banner.svg" alt="VSL Masterclass" width="900"/>
+
 # VSL Masterclass · Plugin Claude Code
+
+</div>
 
 Sistema completo de agentes Claude Code para construir Video Sales Letters (VSL), microleads, leads, landing pages y campañas de Direct Response en español de España. **Creado por Joseph Moreno** a partir de formaciones de Brasil, EE.UU. y España combinadas con experiencia operativa propia.
 
-Un orquestador padre coordina **16 subagentes especializados** + **4 skills de conocimiento compartido**. Cada agente domina una pieza del puzzle: desde detectar el nivel de consciencia del lead hasta diseñar el Complejo del Play Rate de tu landing.
+Un orquestador padre coordina **17 subagentes especializados** + **4 skills de conocimiento compartido**. Cada agente domina una pieza del puzzle: desde detectar el nivel de consciencia del lead hasta diseñar el Complejo del Play Rate de tu landing.
 
 ---
 

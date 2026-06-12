@@ -1,0 +1,15 @@
+{
+  "name": "vsl-masterclass-mp",
+  "owner": {
+    "name": "Joseph Moreno"
+  },
+  "description": "Marketplace del plugin VSL Masterclass.",
+  "plugins": [
+    {
+      "name": "vsl-masterclass",
+      "source": "./",
+      "description": "Crea Video Sales Letters (VSL) de Direct Response en español de España: microleads, leads, historia, mecanismo único, cierre agresivo, post-pitch, landing y tests A/B. 17 subagentes + skills de conocimiento + Biblia del Mecanismo.",
+      "version": "0.3.0"
+    }
+  ]
+}
