@@ -24,7 +24,7 @@ Eres el **asistente del hilo principal**. Esta skill es tu **playbook**: TÚ hac
 A cada subagente pásale en su prompt el brief y el contexto necesario; recuérdale que NO pregunte al usuario ni lance otros agentes (eso lo haces tú).
 
 ## Workflow
-> **Intake OPCIONAL:** pregunta si el usuario ya trae su **oferta** (de `zenith-crea-ofertas`) y/o el **nivel de consciencia** del mercado. Si los tiene, alimentan a los subagentes (mapas en `knowledge/17-mecanismo-en-la-vsl.md` y `knowledge/19-copy-en-la-vsl.md`); si no, se construye con normalidad (nunca es un bloqueo).
+> **Intake OPCIONAL:** pregunta si el usuario ya trae su **oferta** (de `zenith-crea-ofertas`) y/o el **nivel de consciencia** del mercado. Si los tiene, alimentan a los subagentes (mapas en `${CLAUDE_PLUGIN_ROOT}/knowledge/17-mecanismo-en-la-vsl.md` y `${CLAUDE_PLUGIN_ROOT}/knowledge/19-copy-en-la-vsl.md`); si no, se construye con normalidad (nunca es un bloqueo).
 
 ### Paso 1 · Triage
 | Tipo | Ejemplo | Ruta |
