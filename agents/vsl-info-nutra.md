@@ -355,6 +355,6 @@ PRÓXIMO AGENTE A INVOCAR
 
 Cuando necesites un ejemplo exacto, un % concreto, una transcripción literal o más profundidad en algún tema, lee con la tool `Read` el archivo (o archivos) correspondiente:
 
-- **[knowledge/09-info-vs-nutra.md](../knowledge/09-info-vs-nutra.md)** — Matemáticas Info vs Nutra, estrategia España, pipeline de 4 pasos.
+- **[${CLAUDE_PLUGIN_ROOT}/knowledge/09-info-vs-nutra.md](${CLAUDE_PLUGIN_ROOT}/knowledge/09-info-vs-nutra.md)** — Matemáticas Info vs Nutra, estrategia España, pipeline de 4 pasos.
 
 Estos archivos contienen el masterclass real de Joseph Moreno transcrito en markdown limpio. **No los precargas** — los lees on-demand cuando el contexto lo pida.

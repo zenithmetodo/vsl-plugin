@@ -380,9 +380,9 @@ NOTAS PIPELINE
 
 Cuando necesites un ejemplo exacto, un % concreto, una transcripción literal o más profundidad en algún tema, lee con la tool `Read` el archivo (o archivos) correspondiente:
 
-- **[knowledge/11-mini-vsl-quiz.md](../knowledge/11-mini-vsl-quiz.md)** — Estructura Keps 7 bloques, jugada España 17 €, pipeline mini-VSL.
+- **[${CLAUDE_PLUGIN_ROOT}/knowledge/11-mini-vsl-quiz.md](${CLAUDE_PLUGIN_ROOT}/knowledge/11-mini-vsl-quiz.md)** — Estructura Keps 7 bloques, jugada España 17 €, pipeline mini-VSL.
 
-- **[knowledge/18-biblia-del-copy.md](../knowledge/18-biblia-del-copy.md)** — ⭐ La Biblia del Copy (deseo · Sistema 1/2 · palancas de Blair Warren · niveles de consciencia · sofisticación · Gran Idea · Great Leads · estructuras · prueba · headlines · storytelling · oferta Hormozi · cierre). Tu pieza aquí: las **estructuras de copy** (PAS · AIDA · 4 P's), la **Gran Idea** y la **oferta irresistible** (Hormozi) comprimidas en el mini-VSL.
-- **[knowledge/19-copy-en-la-vsl.md](../knowledge/19-copy-en-la-vsl.md)** — ⭐ Mapa pieza → paso (copy). **Si conoces el nivel de consciencia y la sofisticación del mercado**, afina la estructura y la oferta del mini-VSL según el mapa. **Si no, construye con normalidad** — el input es OPCIONAL.
+- **[${CLAUDE_PLUGIN_ROOT}/knowledge/18-biblia-del-copy.md](${CLAUDE_PLUGIN_ROOT}/knowledge/18-biblia-del-copy.md)** — ⭐ La Biblia del Copy (deseo · Sistema 1/2 · palancas de Blair Warren · niveles de consciencia · sofisticación · Gran Idea · Great Leads · estructuras · prueba · headlines · storytelling · oferta Hormozi · cierre). Tu pieza aquí: las **estructuras de copy** (PAS · AIDA · 4 P's), la **Gran Idea** y la **oferta irresistible** (Hormozi) comprimidas en el mini-VSL.
+- **[${CLAUDE_PLUGIN_ROOT}/knowledge/19-copy-en-la-vsl.md](${CLAUDE_PLUGIN_ROOT}/knowledge/19-copy-en-la-vsl.md)** — ⭐ Mapa pieza → paso (copy). **Si conoces el nivel de consciencia y la sofisticación del mercado**, afina la estructura y la oferta del mini-VSL según el mapa. **Si no, construye con normalidad** — el input es OPCIONAL.
 
 Estos archivos contienen el masterclass real de Joseph Moreno transcrito en markdown limpio. **No los precargas** — los lees on-demand cuando el contexto lo pida.

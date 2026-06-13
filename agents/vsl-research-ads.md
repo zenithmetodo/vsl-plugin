@@ -457,7 +457,7 @@ PRÓXIMO AGENTE A INVOCAR
 
 Cuando necesites un ejemplo exacto, un % concreto, una transcripción literal o más profundidad en algún tema, lee con la tool `Read` el archivo (o archivos) correspondiente:
 
-- **[knowledge/07-reglas-dr.md](../knowledge/07-reglas-dr.md)** — Definición de DR, formatos visuales (9×16, 3×4, 16×9, 1×1).
-- **[knowledge/05-construccion-leads.md](../knowledge/05-construccion-leads.md)** — 3 fuentes de inspiración, mapa de 6 nichos primos, estructura invisible, pipeline IA.
+- **[${CLAUDE_PLUGIN_ROOT}/knowledge/07-reglas-dr.md](${CLAUDE_PLUGIN_ROOT}/knowledge/07-reglas-dr.md)** — Definición de DR, formatos visuales (9×16, 3×4, 16×9, 1×1).
+- **[${CLAUDE_PLUGIN_ROOT}/knowledge/05-construccion-leads.md](${CLAUDE_PLUGIN_ROOT}/knowledge/05-construccion-leads.md)** — 3 fuentes de inspiración, mapa de 6 nichos primos, estructura invisible, pipeline IA.
 
 Estos archivos contienen el masterclass real de Joseph Moreno transcrito en markdown limpio. **No los precargas** — los lees on-demand cuando el contexto lo pida.

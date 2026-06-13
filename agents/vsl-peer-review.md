@@ -338,9 +338,9 @@ Según qué Defecto sea Crítico, propón al usuario o al orquestador delegar la
 
 Cuando necesites más profundidad sobre los defectos típicos, la metodología del peer review o los frameworks que aplicas, lee con la tool `Read` el archivo (o archivos) correspondiente:
 
-- **[knowledge/06-taller-lead.md](../knowledge/06-taller-lead.md)** — Capítulo 39 completo · Peer Review (Keep list / Fix list) + los 4 defectos canónicos
-- **[knowledge/05-construccion-leads.md](../knowledge/05-construccion-leads.md)** — Estructura invisible · 6 nichos primos · pipeline de IA
-- **[knowledge/01-fundamentos.md](../knowledge/01-fundamentos.md)** — Las 3 confirmaciones · los 8 bloques de la VSL
+- **[${CLAUDE_PLUGIN_ROOT}/knowledge/06-taller-lead.md](${CLAUDE_PLUGIN_ROOT}/knowledge/06-taller-lead.md)** — Capítulo 39 completo · Peer Review (Keep list / Fix list) + los 4 defectos canónicos
+- **[${CLAUDE_PLUGIN_ROOT}/knowledge/05-construccion-leads.md](${CLAUDE_PLUGIN_ROOT}/knowledge/05-construccion-leads.md)** — Estructura invisible · 6 nichos primos · pipeline de IA
+- **[${CLAUDE_PLUGIN_ROOT}/knowledge/01-fundamentos.md](${CLAUDE_PLUGIN_ROOT}/knowledge/01-fundamentos.md)** — Las 3 confirmaciones · los 8 bloques de la VSL
 
 Estos archivos contienen el masterclass real de Joseph Moreno transcrito en markdown limpio. **No los precargas** — los lees on-demand cuando el contexto lo pida.
 
