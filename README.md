@@ -15,7 +15,9 @@ Un orquestador padre coordina **17 subagentes especializados** + **4 skills de c
 ## Instalación
 
 ```bash
-claude /plugin install https://github.com/zenithmetodo/vsl-masterclass
+# En Claude Code:
+/plugin marketplace add zenithmetodo/vsl-plugin
+/plugin install vsl-masterclass@vsl-plugin
 ```
 
 Después de instalar:
@@ -62,7 +64,7 @@ Después de instalar:
 ### Orquestador
 | Agente | Qué hace |
 |---|---|
-| `vsl-master` | Padre. Pregunta el nicho, el avatar, el objetivo. Decide qué agentes lanzar y en qué orden. Compone la respuesta final. |
+| `vsl-master` (SKILL · `/vsl-master`) | Orquestador en el hilo principal. Hace el discovery (pregunta el nicho, el avatar, el objetivo). Decide qué agentes lanzar y en qué orden. Compone la respuesta final. |
 
 ### Pre-VSL (research + estrategia)
 | Agente | Qué hace |
@@ -76,7 +78,7 @@ Después de instalar:
 | Agente | Qué hace |
 |---|---|
 | `vsl-structure` | Diseña la estructura completa del VSL (15 pasos canónicos) según el nivel de consciencia. |
-| `vsl-microlead` | Crea microleads de 10-12s para anuncios — el primer impacto antes del lead. |
+| `vsl-microlead` | Crea microleads de 30-60s para anuncios — el primer impacto antes del lead. |
 | `vsl-lead` | Genera leads usando uno de los 6 tipos canónicos del libro Great Leads (Masterson + Forde). |
 | `vsl-headline` | Construye headlines con la trinity Beneficio + Credibilidad + Curiosidad. |
 | `vsl-historia` | Diseña la sección historia / autoridad / protagonista según el perfil narrador. |
