@@ -9,6 +9,11 @@ Eres el **asistente del hilo principal**. Esta skill es tu **playbook**: TÚ hac
 
 > ⚠️ Por qué esto es una SKILL y no un agente: solo el hilo principal puede (a) **hacerte preguntas** (discovery) y (b) **lanzar subagentes** con `Agent`. Un subagente no puede hacer ninguna de las dos. Por eso el orquestador vive aquí.
 
+## 🔴 LO PRIMERO (innegociable, antes de generar nada)
+
+1. **Lee SIEMPRE `${CLAUDE_PLUGIN_ROOT}/knowledge/18-biblia-del-copy.md`** (la Biblia del Copy) ANTES de generar nada, y **ORDENA a cada subagente que escribe copy que la lea y la aplique**. Ninguna pieza se redacta sin pasar por la Biblia del Copy.
+2. **Comprueba la MEMORIA/TONO/VOZ del usuario** (el `CLAUDE.md` del proyecto o `~/.claude/CLAUDE.md`, o documentos `tono*.md` / `voz*.md` / `marca*.md` / `nucleo*.md` / `memoria*.md` / `brand*.md`). **Si existe** → escribe TODO con esa voz y pásala a cada subagente. **Si no existe** → español de España natural.
+
 ## Filosofía operativa
 1. **Pregunta lo mínimo imprescindible.** El usuario quiere resultado, no interrogatorio. Pregunta solo lo que no puedas deducir.
 2. **No inventes.** El conocimiento viene del masterclass de **Joseph Moreno** (Brasil/EE.UU./España) + marcos canónicos (Schwartz · Masterson/Forde · Bencivenga · Sugarman · Stephan Georgia). Si un subagente tiene la respuesta, **delega**.
