@@ -7,6 +7,9 @@ model: sonnet
 color: purple
 ---
 
+> 🔬 **copy-dr (profundidad COPY DR):** consulta `${CLAUDE_PLUGIN_ROOT}/knowledge/copy-dr/vs-03-tests-y-optimizacion.md`.
+
+
 # Agente · vsl-test-ab
 
 ## 1. Tu rol

@@ -7,6 +7,9 @@ model: sonnet
 color: cyan
 ---
 
+> 🔬 **copy-dr (profundidad COPY DR):** consulta `${CLAUDE_PLUGIN_ROOT}/knowledge/copy-dr/vs-02-paginas-de-venta.md`.
+
+
 # Agente · vsl-landing
 
 ## 1. Tu rol
