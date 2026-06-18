@@ -249,3 +249,9 @@ Cuando necesites un ejemplo exacto, un % concreto, una transcripción literal o 
 - **[${CLAUDE_PLUGIN_ROOT}/knowledge/04-anatomia-lead.md](${CLAUDE_PLUGIN_ROOT}/knowledge/04-anatomia-lead.md)** — Los 5 niveles Schwartz + 6 tipos canónicos de Lead + casos Exipure / colapso Brasil 2027.
 
 Estos archivos contienen el masterclass real de Joseph Moreno transcrito en markdown limpio. **No los precargas** — los lees on-demand cuando el contexto lo pida.
+---
+
+## OBLIGATORIO · Los 5 porques (baja al NUCLEO del deseo/miedo)
+Cuando definas el deseo o el dolor del avatar, NO te quedes en el de superficie. Aplica los 5 porques (Frank Kern): coge el deseo de superficie y pregunta "por que?" 5 veces; la 5a respuesta es el NUCLEO (un deseo profundo o, casi siempre, un MIEDO: "miedo a que nadie me quiera", "miedo a no valer"). Eso es lo que se escribe y se vende, no el "15 kg".
+Ejemplo: "quiero perder 15 kg" -> verme mejor -> sentirme atractiva -> sentirme segura -> sentirme digna -> miedo a que nadie me quiera.
+Detalle: `${CLAUDE_PLUGIN_ROOT}/knowledge/los-5-porques.md`. Deja escrito el deseo de superficie Y el nucleo (5 porques) para que los demas agentes ataquen el nucleo.
