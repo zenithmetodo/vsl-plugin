@@ -17,7 +17,7 @@ Un orquestador padre coordina **17 subagentes especializados** + **4 skills de c
 ```bash
 # En Claude Code:
 /plugin marketplace add zenithmetodo/vsl-plugin
-/plugin install vsl-masterclass@vsl-plugin
+/plugin install vsl-masterclass@vsl-masterclass-mp
 ```
 
 Después de instalar:
