@@ -33,3 +33,6 @@ Este directorio contiene el masterclass completo de VSL de Joseph Moreno en mark
 ## Cómo lo usan los agentes
 
 Cada agente tiene en su system prompt una referencia a los archivos relevantes. Cuando necesita profundizar (por ejemplo, recordar un ejemplo exacto, un % concreto, un nombre de framework), llama a `Read` sobre el archivo correspondiente.
+
+## Biblioteca profunda COPY DR
+- **copy-dr/** - clases destiladas de copy de respuesta directa (ver `copy-dr/00-INDEX.md`).
