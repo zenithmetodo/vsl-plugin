@@ -1,7 +1,7 @@
 {
   "name": "vsl-masterclass",
   "description": "Sistema completo de agentes Claude Code creado por Joseph Moreno para construir Video Sales Letters (VSL), microleads, leads, landing pages y campañas de Direct Response en español de España. Basado en formaciones de Brasil, EE.UU. y España + experiencia operativa propia. Un orquestador padre (vsl-master) coordina 17 subagentes especializados.",
-  "version": "1.1.10",
+  "version": "1.1.11",
   "author": {
     "name": "Joseph Moreno"
   },

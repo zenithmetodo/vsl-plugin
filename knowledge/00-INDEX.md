@@ -36,3 +36,5 @@ Cada agente tiene en su system prompt una referencia a los archivos relevantes. 
 
 ## Biblioteca profunda COPY DR
 - **copy-dr/** - clases destiladas de copy de respuesta directa (ver `copy-dr/00-INDEX.md`).
+
+- **blair-warren-persuasion-en-una-frase.md** — Las 5 palancas de Blair Warren (anima sueños · justifica fracasos · calma miedos · confirma sospechas · enemigo común). CHECKPOINT OBLIGATORIO de copy.
